@@ -6,5 +6,7 @@
 
 ### * Directly run the fitpeo.java file in the com.fitpeo.testcases PACKAGE  under src/test/java DIRECTORY.
 ###     All the taks given in the assignment have been scripted using single java class.
+
+### In the given task ,the slider functionality does not work as intended for all the inputs passed in the text-input field.The inputs given to test fail the tests for this     slider. 
     
        
